@@ -15,7 +15,7 @@ sudo apt install ufw -y
 ```
 
 - Open port 1883
-```code
+```console
 sudo ufw allow 1883/tcp
 ```
 

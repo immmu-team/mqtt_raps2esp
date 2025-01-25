@@ -2,7 +2,7 @@
 
 ## Requirements for Raspberry
 
-- [Install mosquitto broker]([https://mosquitto.org/download/](https://docs.vultr.com/install-mosquitto-mqtt-broker-on-ubuntu-20-04-server))
+- [Install mosquitto broker](https://docs.vultr.com/install-mosquitto-mqtt-broker-on-ubuntu-20-04-server)
 
 -  Install paho-mqtt 
 ```console
